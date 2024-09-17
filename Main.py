@@ -1195,7 +1195,7 @@ def start():
 
 # Дизайн окна
 root = Tk()
-root.title("Печать альбомов v 4.3")
+root.title("Печать альбомов v 5.1")
 root.geometry("1150x980")
 root.resizable(width=False, height=False)
 
